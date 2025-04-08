@@ -1,2 +1,2 @@
 # plugin-git-town
-Git town abbreviations for fisher
+[Git town](https://www.git-town.com/introduction.html) abbreviations for fisher
